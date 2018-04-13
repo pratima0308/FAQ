@@ -1,0 +1,104 @@
+Q1. How can I verify my admission with Admission and Enrollment?
+A1. You may verify your application status in Galaxy or contact the Office of Admission and Enrollment.
+Q2. Do I need to pay a deposit to secure my admission?
+A2. There is no need to make a deposit to secure your admission. You may declare your intent to enroll to UT Dallas by logging in to Orion with your Net ID and password. For any further inquiries regarding your admission please contact Admission and Enrollment at [email protected].
+Q3. How can I request a duplicate admission letter?
+A3. You may request a duplicate admission letter by contacting Admission and Enrollment  at [email protected]. If you are a graduate student from the Naveen Jindal School of Management you may request a duplicate at [email protected].
+Q4. I would like to change my major. How do I do that?
+A4. You may inquire about the process with Admission and Enrollment .
+Q5. How do I defer my admission and I-20 to a future semester?
+A5. For information about how to transfer your admission to a future semester, please visit Admission and Enrollment  website.Once your admission has been updated to the future semester, the International Student Services Office (ISSO) will be in contact with you to determine what documents are needed to process your I-20.
+Q6. How do I get notifications on the status of my UT Dallas I-20 once I have submitted my documents?
+A6. You will receive an email from the UT Dallas ISSO within 2 business days of your admission notifying you of the status of your UT Dallas I-20. This message will go to your UT Dallas email address. You will also receive an email within 2 business days after you submit any financial documents needed for your I-20. If your documents are complete, your I-20 will be issued within this 2 business day period. The email will list mailing options for your I-20. See the Required F-1 Documents webpage for details on the documents required for I-20 issuance.
+Q7. I am overseas, is there a deadline to submit my documents to the ISSO so my I-20 is issued?
+A7. No, there is not a deadline. It is to your advantage to submit your documents as soon as possible so your I-20 can be issued and you can apply for your visa. You may send your documents to the ISSO by email, mail, or in person by following the I-20 submission instructions.
+Q8. I was granted a scholarship or assistantship after my I-20 was issued. Do I need to get a new I-20?
+A8. It is your choice. If you wish to have your scholarship or assistantship funding listed on your I-20, email a scanned copy of the original scholarship or assistantship letter to [email protected] and a new I-20 will be issued. The letter must be signed by your academic department representative and be on UT Dallas letterhead.
+Q9. Where can I get information about scholarships and assistantships?
+A9. Visit the Financial Aid and Scholarships webpage for information on scholarships. To learn more about assistantships, contact your academic department. Please be aware the ISSO does not handle information on availability, eligibility criteria, or application procedures.
+Q10. How can I send my financial documents?
+A10. Before emailing, please verify that the total of your attachments is no larger than 5MB. Do not send files in compressed formats, such as .rar or .zip. Instead, use a PDF, JPEG or DOC format.
+Q11. What documents do I need to submit to obtain an I-20?
+A11. The UT Dallas Financial Affidavit form. Supplemental financial support documents, if applicable. All supplemental funding documents must meet the requirements listed on Financial Documents for I-20. Copy of the passport ID page.  This is the page that shows your name, photo and expiration date
+Q12. What is a SEVIS Transfer?
+A12. This occurs when your electronic immigration record is sent from your current transfer out school, to UT Dallas. Please work with your international office at your current transfer out school to request a transfer to UT Dallas.
+Q13. Who do I contact for support on eLearning?
+A13. Please visit our eLearning Helpdesk to view a list of support options.
+Q14. When will I get my UT Dallas I-20?
+A14. For questions on the status of your UT Dallas I-20, contact the UT Dallas ISSO at [email protected] or by phone at (972) 883-4189.
+Q15. I am going to finish my degree in less time than listed on my I-20. Can you issue an I-20 with a shorter program length?
+A15. The Department of Homeland Security requires UT Dallas to establish a program length for the I-20s that the ISSO issues. The program length is established by the academic department office. Your I-20 reflects the program length established by the department. Please note that students at UT Dallas are able to pace their own program completion. The program length is an average. Some students may finish a program in less time, while others may take longer. Please contact your academic department directly for more information about the established length of your program.
+Q16. The name of my major on my I-20 is different. How can I change it?
+A16. The USCIS asked all institutions to use a standard code for all programs. The name of the program as it appears on the I-20 is the name provided by the USCIS, and the code for that program is equivalent to the code UT Dallas uses to identify your current program name. If you have any questions about the program you have been admitted, please contact the UT Dallas Admission and Enrollment at [email protected].
+Q17. I need to arrive late, can you change my I-20 program start date?
+A17. We cannot change the date on your I-20 or issue an extension letter. As you will note on your I-20, the “report to the school” date is the first day of classes. If you are a new student and cannot arrive in Dallas by the “report to the school” date listed on your I-20, it will be in your best interest to defer your admission to the following semester.
+Q18. My I-20 was sent by regular mail. To what address was it sent, and how can I get the tracking number?
+A18. As a default your UT Dallas I-20 will be sent to the SEVIS-Foreign address on file in Galaxy. To determine that address, please review your SEVIS-Foreign address in Galaxy. If you would like your I-20 to be sent to a different address, please send an email with the address to the ISSO at [email protected] or update your SEVIS-Foreign address in Galaxy. There are no tracking numbers for mail sent through the U.S. Postal Service (regular mail). Mailing times vary by country; it may take 2 to 4 weeks for your packet to reach you.
+Q19. I would like to request a duplicate I-20. How do I make that request?
+A19. If you want the duplicate I-20 mailed through the U.S. Postal Service to a specific address, send your request to [email protected] and include the address you want it mailed.  If you want the duplicate I-20 sent through express mail, follow the instructions in the ISSO Express Mail webpage to set up the request. You will be responsible for payment.
+Q20. Can you send me an electronic copy of my I-20?
+A20. Due to information security concerns, we are not able to send electronic copies of I-20s. You may order express mail services to obtain your I-20 faster.
+Q21. By mistake I requested an express mail order from The University of Dallas (not the University of Texas at Dallas)? How can I transfer my express mail order?
+A21. Send an email to [email protected] for assistance.
+Q22. By mistake I entered two or more express mail orders. How can I request a refund of the express mail shipping cost?
+A22. Request a refund of the express order by sending an email to [email protected].
+Q23. How does the ISSO determine what name is on the Form I-20/DS-2019?
+A23. If the passport has a Machine Readable Zone (MRZ), the issuing country has already identified which name component(s) it considers to be the surname and given name. Therefore, with a few exceptions, the MRZ can usually be used as a good guide for determining which components of the name should be entered into which name fields in SEVIS. Generally, there are three fields where the MRZ serves as a guide: Surname/Primary Name: The Primary Name is the first name that appears in the MRZ. In most cases, that should very closely reflect what ISSO will enter in the Surname/Primary Name field. Very long surnames (40+ letters) are truncated in the MRZ. In that case, the ISSO will use the Primary Name field in the Visual Inspection Zone (VIZ) as a guide for the complete surname. Given Name: Captures any other names on the passport. Passport Name: Should reflect exactly what is in the MRZ. The Passport Name allows various government officials to match the Form I-20/Form DS-2019 exactly to the passport.
+Q24. What is the Machine Readable Zone (MRZ) of a passport?
+A24. The MRZ of the passport appears at the bottom of the biographic page of the passport. The top line consists of uppercase letters (nonimmigrant’s name) and carets.
+Q25. What is the Visual Inspection Zone (VIZ) of a passport?
+A25. The VIZ of the passport is in the center of the biographic page, to the right of the holder’s photo. It includes the holder’s full name, date of birth, nationality, etc.
+Q26. What if there is no MRZ in the passport, but there is a U.S. visa with an MRZ? What name will be on the I-20?
+A26. If the passport lacks an MRZ, the U.S. visa can also be used as a guide for determining how the name will be listed on your I-20. If the passport VIZ is difficult to interpret, or does not match the U.S. visa, the ISSO may refer to the name as it is indicated on the U.S. visa.
+Q27. What information can I find when I log into Galaxy?
+A27. The Galaxy portal is the UT Dallas student information system. In Galaxy, you can verify your admission status, update your mailing address and identify any registration blocks.
+Q28. I cannot access my UT Dallas email or log into Galaxy. What can I do?
+A28. Use your NetID and password to log in to your UT Dallas email or Galaxy account. For assistance in setting up or accessing your UT Dallas email or Galaxy account, contact the UT Dallas Help Desk.
+Q29. Where do I find my UTD-ID?
+A29. Your UTD-ID is a ten (10) digit number that acts as the unique identifier for you. It is normally sent in your acknowledgment email. If you need help, contact the Admission and Enrollment
+Q30. What are the different financial opportunities available for international students?
+A30. Please see financial opportunities which are available for international students studying at UT Dallas at http://www.utdallas.edu/isso/finaid/.
+Q31. How to get information regarding TA/RA assistantship?
+A31. The criteria for eligibility, the availability, the application process and the offer notification of assistantships are managed by the individual Academic Departments. The assistantships depend on the department and on the amount of funding that is available, and the offer notification may come several weeks after admission.
+Q32. How to check the status of my assistantship application?
+A32. For the status of your assistantship application, please contact your academic department.
+Q33. What are the various major components of cost of schooling at UTD?
+A33. School costs are a combination of tuition, fees, living expenses and books. The tuition and fees are determined by the number of credit hours you take each term. Once you enroll in classes, tuition and all applicable fees are automatically added to your account and you will be required to meet payment deadlines. Most students attend two semesters per year. To maintain F-1 status Bachelor’s level students must take a minimum of 12 credit hours each semester, Master’s and Doctorate students must take a minimum of 9 credit hours each semester.Review the following tuition and fees chart to get an idea of school costs. http://www.utdallas.edu/enroll/apply/cost.php. In addition, the amount of funds you are required to present in order to obtain your I-20 is an estimate on the amount you will pay for your first year of enrollment at The University of Texas at Dallas.
+Q34. How can I request for Tuition and Fees Estimate Letter?
+A34. You may request one tuition and fees estimate letter from the Bursar by contacting their office. Please note that this letter will only give an estimate of non-resident tuition and fees. The Bursar is unable to amend this letter to verify resident tuition or highlight case specific information. The Bursar will only issue one letter per student. In addition to this letter, you have the option to calculate your estimated tuition and fees by using the Estimated Cost of Attendance calculator. You may also review the Guaranteed Tuition Plans webpage to calculate your estimated costs.
+Q35. What is I arrive later then start date on my I-20?
+A35. The ISSO strongly recommends against attempting to arrive in the U.S. after the start date on your I-20. If you arrive later than the “report to school” date on your I-20, the immigration officer at the port of entry has authority to turn you away. If you are allowed to enter the United States but are not allowed to register for classes, you will be in violation of your visa status.
+Q36. How do I audit a course?
+A36. For more information on how to audit a course, please go to audit registration.
+Q37. What is a hold or a service indicator?
+A37. Holds or service indicators are computerized mechanisms to prevent registration or transcript processing. Some service indicators are positive in nature and will not affect your ability to register or to receive an official transcript. When you have a hold or a negative service indicator affecting your registration or official transcript processing, you need to take steps to resolve the problem. You can check your holds or service indicators online.
+Q38. I withdrew from UT Dallas last semester and I would like to reenter this semester. What do I need to do?
+A38. If you completely withdrew from the previous semester before the 20th class day, the Office of the Registrar strongly recommends that you review your academic record online, ie, update address, transfer credit from another institution. Additionally, you will need to complete and submit a re-entry form. All reentry requests for a semester must be received 10-days prior to the first day of the semester (full-term). If you have not attended UT Dallas in three long (fall and spring) semesters and you left UT Dallas on probationary status, you must apply for readmission.
+Q39. How do I reapply for admission?
+A39. Domestic and International students must complete a new application for admission no later than the published deadline and pay an application fee. Incomplete applications or late applications will be required to register late and pay a late registration fee.
+Q40. I am a non-degree student and would like to apply to degree seeking. I do not want to lose all the credit that I took as non-degree seeking. What do I need to do?
+A40. No more than fifteen hours of applicable non-degree credit may be transferred to a degree program at the University. However, acceptance of credit is at the discretion of the Associate Dean or program head and the University Registrar.
+Q41. My name is not correct in the system. How do I go about changing it?
+A41. Primary Name: For information on changing names and addresses, please see the catalog. Preferred Name: The University recognizes that many community members use names other than their primary/legal names to identify themselves.  As long as the use of this different name is not for the purpose of misrepresentation, the University acknowledges that a preferred name may be used whenever possible in the course of university business and education. The student is free to determine the preferred name they wish to be known by in the Orion student information system; however, inappropriate use of the preferred name policy may be cause for denying the request The student should send email from their UT Dallas email account to [email protected] to edit the preferred name.
+Q42. What is a preferred name?
+A42. Preferred name is  a first and or middle name that does not match your Primary/Legal name in the Orion student information system.  Currently Preferred Name is defaulted to match the Primary/Legal Name in the Orion student information system.
+Q43. Where is preferred name displayed?
+A43. In Orion, student preferred name is displayed in your Student Self-Service screen, and on Grade Rosters.   The preferred name is also displayed on eLearning grade rosters and Comet Cards.
+Q44. Can I get a Comet Card issued with my preferred name?
+A44. Yes, Comet Cards can be updated to have preferred name on front and legal name on the back.
+Q45. Can I get an official transcript, the commencement program, or my diploma issued with my preferred name?
+A45. No, the official transcript, the commencement program, and diploma are issued only with the primary/legal name.
+Q46. I have more questions regarding preferred name, who can I contact?
+A46. Please email your questions to [email protected].  A member of the Registrar’s Office staff will respond.
+Q47. How do I find out what my NetID or NetID password is?
+A47. To access your NetID or update your NetID password, visit http://netid.utdallas.edu. If you have any problems, contact the Helpdesk at 972-883-2911 or assist@utdallas.edu. For more information on your NetID, please visit the UT Dallas NetID FAQ.
+Q48. My browser cannot access the eLearning server. What do I do?
+A48. Please view the Technical Requirements section of the Getting Started page.
+Q49. I log into the eLearning server, but one of my courses is missing. What can be the possible reason?
+A49. Registering prior to the first day of a new semester:  Courses will be made available to students to access at the start of the new  semester. Students should automatically be added to courses in  eLearning within 24hrs of your enrolling in the course. If for some reason the course does not appear after 24hrs, please email elearning@utdallas.edu and include the information listed below. Your name, Your NetID, The course/section number of the course you do not see in your course list.
+Q50. Why do I see a course listed in eLearning that I am no longer (or never have been) registered for.
+A50. Courses should automatically be removed from your  eLearning course list within 24hrs of your unenrolling from the course. If for some reason the course remains, please email elearning@utdallas.edu and include the information listed below. We will remove you from the course, notify you, and then look into why the auto-unenroll process is not working.Your name, Your NetID, The course/section number of the course you see in  that you are not enrolled in.
+Q51. How do I get access to a course from a previous semester on eLearning.
+A51. The instructor for the course for which you need access to must submit the request for you to have access to a course once the semester ends. The instructor will need to send us the following information: Student's name, Student NetID, Course/section number, Length of time student needs access to course.
+Q52. I started a quiz in eLearning and now I get an error message! What do I do?
+A52. If you have problems while taking a quiz in  eLearning (i.e. your screen freezes up), it is recommended that you restart your browser, then log back into  eLearning and re-enter the quiz. If this does not help the problem, restart your computer, then go back into the quiz. If you are still having problems, please contact the UT Dallas 24/7 eLearning Helpdesk. You will need to provide them the following information: Student name, Student NetID, Course/section number in which problem occurred, Quiz/Test name, Time in which issue occurred. Always remember to save your answers as you progress through your quiz. If anything happens and you are not able to get back into your quiz, since you have saved your answers, your instructor will be able to see your responses.
